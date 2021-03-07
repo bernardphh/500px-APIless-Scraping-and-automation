@@ -1,3 +1,6 @@
+```diff
++ Please notice that this project is no longer updated since January 2021. Some, if not all, functionalities may stop working. 
+```
 # 500px-APIless: Scraping and automation
 A personal project created by curiosity and for fun, to extract information from 500px web site for data analyzing, and to perform some automated processes.
 
